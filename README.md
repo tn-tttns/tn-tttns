@@ -1,8 +1,8 @@
 # Hi, I’m TN!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftn-tttns&count_bg=%234D4D4D&title_bg=%231D1D1D&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)\
-If you see my username, tn-tttns, you may wonder what 'tttns' means./
-tttns is abbreviation of 'Travel to the Next Scene.'/
+If you see my username, tn-tttns, you may wonder what 'tttns' means.\
+tttns is abbreviation of 'Travel to the Next Scene.'\
 <span style="color:grey">Actualy, who made this phrase is not me but [Parangsae](https://github.com/PArangSae).</span>
 
 # Using or Learning Programming Languages & Programs
