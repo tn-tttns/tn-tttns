@@ -25,3 +25,9 @@ _Actualy, who made this phrase isn't me, but [Parangsae](https://github.com/PAra
 # My Projects
 ### TN_Bot (서비스 종료)
 - [엔트리 이야기](https://playentry.org/community/entrystory/list?sort=created&term=all) 댓글 봇
+
+### E11 (서비스 예정)
+- E10 Support 서버 서포트봇
+
+### E10 (제작중)
+- 디스코드 게임봇
